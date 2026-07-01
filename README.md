@@ -22,6 +22,7 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 📁 codigo
     ├── Testar Motores
     ├── Testar Sensor Segue Linha
+    ├── Código Servo Motor e Segue Linha
 
 📁 esquemas
     ├── (Imagem) Circuito Carrinho Seguidor de Linha
