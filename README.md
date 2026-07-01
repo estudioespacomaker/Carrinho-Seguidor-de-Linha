@@ -26,10 +26,6 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 📁 esquemas
     ├── (Imagem) Circuito Carrinho Seguidor de Linha
 
-📁 imagens
-
-📁 modelos3D
-
 ```
 
 ---
