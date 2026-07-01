@@ -20,7 +20,7 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 
 ```
 📁 codigo
-    ├── Testa Motor Carrinho
+    ├── Testar Motores
 
 📁 esquemas
 
