@@ -21,8 +21,10 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 ```
 📁 codigo
     ├── Testar Motores
+    ├── Testar Sensor Segue Linha
 
 📁 esquemas
+    ├── (Imagem) Circuito Carrinho Seguidor de Linha
 
 📁 imagens
 
