@@ -20,9 +20,13 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 
 ```
 📁 codigo
+    ├── Código Servo Motor, Sensor de Reflexo e Ultrassônico
+    ├── Código Servo Motor e Segue Linha
     ├── Testar Motores
     ├── Testar Sensor Segue Linha
-    ├── Código Servo Motor e Segue Linha
+    ├── Testar Sensor Ultrassônico
+
+   
 
 📁 esquemas
     ├── (Imagem) Circuito Carrinho Seguidor de Linha
